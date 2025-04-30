@@ -42,7 +42,7 @@ export default function RootLayout({
       >
         {loading ? ( <Preloader /> ) : ( 
           <Header />
-        )}
+        )}  
         {children}
       </body>
     </html>
