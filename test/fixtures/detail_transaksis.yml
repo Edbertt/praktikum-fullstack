@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  kode_faktur: MyString
+  kode_barang: MyString
+  qty: 1
+  total_harga: 1
+
+two:
+  kode_faktur: MyString
+  kode_barang: MyString
+  qty: 1
+  total_harga: 1
